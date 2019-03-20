@@ -1,0 +1,2 @@
+# plantillaGraphqlDotNet
+Plantilla 
